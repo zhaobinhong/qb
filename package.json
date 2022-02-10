@@ -18,7 +18,7 @@
     "d3-geo-projection": "^2.8.1",
     "d3-geomap": "^3.3.0",
     "element-ui": "^2.13.0",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "sass-loader": "^7.3.1",
     "scss": "^0.2.4",
     "scss-loader": "0.0.1",
